@@ -1,3 +1,5 @@
+#code heavily inspired by: https://www.zenrows.com/blog/find-all-urls-on-a-domain#custom-link-extractor
+
 import csv
 import time
 from collections import deque
